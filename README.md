@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kastl
+- 👋 Hi, I’m @joseph
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Python, C#
 - 💞️ I’m looking to collaborate on ... Python, C#
